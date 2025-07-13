@@ -105,9 +105,11 @@ ReactJS Documentation
 # Application Screenshots
 
 ### Light Theme
-![LightTheme](screenshots/Screenshot%202025-07-13%20130134.png)
+![Light Theme](screenshots/Screenshot%202025-07-13%20130134.png)
 
 ### Dark Theme
-![DarkTheme](screenshots/Screenshot%202025-07-13%20130407.png)
+![Dark Theme](screenshots/Screenshot%202025-07-13%20130407.png)
+
+
 
 
