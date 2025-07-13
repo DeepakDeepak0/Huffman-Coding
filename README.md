@@ -102,13 +102,14 @@ Spring Boot Documentation
 ReactJS Documentation
 
 
-# Application Screenshots
+## Application Screenshots
 
 ### Light Theme
-![Light Theme](screenshots/Screenshot%202025-07-13%20130134.png)
+![Light Theme](screenshots/pic1.png)
 
 ### Dark Theme
-![Dark Theme](screenshots/Screenshot%202025-07-13%20130407.png)
+![Dark Theme](screenshots/pic2.png)
+
 
 
 
